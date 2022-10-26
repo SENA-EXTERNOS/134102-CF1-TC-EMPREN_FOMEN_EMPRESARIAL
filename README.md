@@ -1,8 +1,8 @@
-# **Comportamiento emprendedor, innovación y modelo de negocio - sena-base-2021 v6.3.1**
+# **Comportamiento emprendedor, innovación y modelo de negocio** - sena-base-2021 v6.3.1
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://sena-externos.github.io/134102-CF1-TC-EMPREN_FOMEN_EMPRESARIAL/](https://sena-externos.github.io/134102-CF1-TC-EMPREN_FOMEN_EMPRESARIAL/#/)
 
 #
 
