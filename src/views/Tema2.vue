@@ -118,17 +118,34 @@
 
 
           .tarjeta.color-n.p-3(x="34.5%" y="79%" numero="1")
-            p Lorem
+            h3.mb-3.text-white Investigación y estudio de mercado 
+            p Esta fase es muy importante, porque es donde identificamos hacia dónde va dirigido el mercado objetivo y hasta a dónde queremos llegar con el mercado potencial; es en este punto donde debemos cuestionar los siguientes interrogantes: qué, cuánto y dónde vender; a quiénes, cómo y a qué precio producirlo. Fuente: SENA Regional Risaralda elaboración de proyectos módulo 1.
+              br
+              |Sobre este punto, también se deben examinar la demanda y la oferta.
+              br
+              | En el estudio de mercado, se considera necesario el estudio técnico y/o operativo, que se dedica a los aspectos técnicos de la producción, el diseño del producto, qué maquinaria, equipos y materiales, son los más idóneos para la producción.
+
           .tarjeta.color-n.p-3(x="44.4%" y="79%" numero="2")
-            p Lorem
+            h3.mb-3.text-white Localización 
+            p Este aspecto expone adónde debemos identificar el lugar en donde se va a ubicar la empresa, teniendo en cuenta el mercado, los proveedores, las condiciones geográficas y demográficas, entre otros.
+
           .tarjeta.color-n.p-3(x="44.4%" y="56%" numero="3")
-            p Lorem
+            h3.mb-3.text-white Financiamiento 
+            p Este estudio es clave, porque nos permite determinar las fuentes de financiamiento del emprendimiento.
+
           .tarjeta.color-n.p-3(x="52.7%" y="56%" numero="4")
-            p Lorem
+            h3.mb-3.text-white Inversiones
+            p Con este aspecto podemos determinar y calcular el valor de la inversión del proyecto, para que inicie su proceso operativo teniendo en cuenta: equipos, capital, recurso humano, materia prima, arriendo y servicios básicos, etc.
+
           .tarjeta.color-n.p-3(x="61.6%" y="56%" numero="5")
-            p Lorem
+            h3.mb-3.text-white Presupuesto de ingresos y gastos
+            p Las ventas son el insumo que permite estimar cuál es el valor de ingresos que recibirá la empresa, en qué gastos se deben incurrir, así como también, cuál es la ganancia que quedará designada como rentabilidad del proyecto.
+
           .tarjeta.color-n.p-3(x="61.6%" y="32%" numero="6")
-            p Lorem
+            h3.mb-3.text-white Estudio organizacional y estudio legal
+            p En esta fase del proceso, es donde se debe tener la normatividad requerida para la legalidad del proyecto ya sea nacional o internacional, si se quiere ampliar el mercado hacia la exportación.
+              br
+              |Para ampliar la información, lo invitamos a leer el documento Metodología de elaboración de proyectos productivos e innovadores, el cual se encuentra en el material complementario.
 
 
     ul.lista-ul--color.mb-3
