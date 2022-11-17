@@ -66,7 +66,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'El emprendimiento',
+        titulo: 'Modelo de negocio',
         desarrolloContenidos: true,
       },
     ],
@@ -250,31 +250,31 @@ export default {
     {
       tema: 'Vigilancia estratégica e innovación',
       referencia:
-        'Maldonado, N. P., y Triana, W. A. (2019).<em> Metodología de elaboración de proyectos productivos e innovadores. pdf.</em> Repositorio Sena. https://repositorio.sena.edu.co/bitstream/handle/11404/5828/metodologia_elaboracion_proyectos_productivos_innovadores.pdf?sequence=1&isAllowed=y',
+        'Maldonado, N. P., y Triana, W. A. (2019).<em> Metodología de elaboración de proyectos productivos e innovadores. pdf.</em> Repositorio Sena.',
       tipo: 'PDF',
       link:
-        'https://repositorio.sena.edu.co/bitstream/handle/11404/5828/metodologia_elaboracion_proyectos_productivos_innovadores.pdf?sequence=1&isAllowed=y ',
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/5828/metodologia_elaboracion_proyectos_productivos_innovadores.pdf?sequence=1&isAllowed=y',
     },
     {
       tema: 'Vigilancia estratégica e innovación',
       referencia:
-        'Emprendetube. (2021).<em> Cómo crear una marca comercial paso a paso</em>(video). YouTube. https://www.youtube.com/watch?v=-1PWX59R_jI ',
+        'Emprendetube. (2021).<em> Cómo crear una marca comercial paso a paso</em>(video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-1PWX59R_jI',
     },
     {
       tema: 'Modelo de negocio',
       referencia:
-        'Gastronomía Rentable. (2016).<em> El punto de equilibrio</em> (video). YouTube. https://www.youtube.com/watch?v=5ZpQ0j5qb4k',
+        'Gastronomía Rentable. (2016).<em> El punto de equilibrio</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=5ZpQ0j5qb4k',
     },
     {
       tema: 'Perfil emprendedor',
       referencia:
-        'De la idea a tu negocio. (17 de 12 de 2015).<em> Leccion 4: El perfil de un emprendedor.</em> Obtenido de https://www.youtube.com/watch?v=tKMuV0j9bRA',
+        'De la idea a tu negocio. (17 de 12 de 2015).<em> Leccion 4: El perfil de un emprendedor.</em>',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=5ZpQ0j5qb4k',
+      link: 'https://www.youtube.com/watch?v=tKMuV0j9bRA',
     },
   ],
   creditos: {

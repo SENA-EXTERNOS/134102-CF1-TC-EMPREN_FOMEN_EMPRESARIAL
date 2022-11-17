@@ -17,9 +17,8 @@
           figure
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo.color-acento-contenido
-          h2 Falso / verdadero
-        p.mb-4 Apreciado aprendiz, a continuación encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
+
+        p.mb-4 Apreciado aprendiz, a continuación encontrará una serie de preguntas con el objetivo de evaluar la aprehensión de los conceptos expuestos en el componente formativo. Indique en cada pregunta si la respuesta es falsa o verdadera.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

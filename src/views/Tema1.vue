@@ -28,7 +28,7 @@
                 :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-1.png')})`}"
               )
               .bloque-texto-g__texto.p-4
-                p La palabra emprendimiento proviene del francés entrepreneur (pionero), y se refiere a la capacidad de una persona para hacer un esfuerzo adicional por alcanzar una meta u objetivo, siendo utilizada también para referirse a la persona que inicia una nueva empresa o proyecto, término que después fue aplicado a empresarios que fueron innovadores o agregaban valor a un producto, servicio o proceso ya existente. (Abambari M. J., p.2)
+                p La palabra emprendimiento proviene del francés <em>entrepreneur</em> (pionero), y se refiere a la capacidad de una persona para hacer un esfuerzo adicional por alcanzar una meta u objetivo, siendo utilizada también para referirse a la persona que inicia una nueva empresa o proyecto, término que después fue aplicado a empresarios que fueron innovadores o agregaban valor a un producto, servicio o proceso ya existente. (Abambari M. J., p.2)
 
 
     p.mb-5 Es importante conocer y entender a qué nos referimos cuando mencionamos la palabra emprendedor. Su concepto y sus características se indican a continuación.
@@ -176,11 +176,11 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
           figure
-            img(src='@/assets/curso/temas/tema1/img-16.png')  
+            img(src='@/assets/curso/temas/tema1/img-16-.png')  
 
 
-    p.mb-5 Cada una de estas características juega un papel importante en el emprendedor porque, con ellas, la gestión que realiza con sus colaboradores se refleja en alcanzar los objetivos trazados. 
-
+    p.mb-3 Cada una de estas características juega un papel importante en el emprendedor porque, con ellas, la gestión que realiza con sus colaboradores se refleja en alcanzar los objetivos trazados. 
+    p.mb-5 Para mayor claridad se explicará a continuación cada una de ellas:
 
     LineaTiempoD.color-acento-contenido.mb-5
         .row.align-items-center.py-2(numero="1" titulo="Planificar sistemáticamente")
@@ -194,8 +194,7 @@
               img(src='@/assets/curso/temas/tema1/img-17.svg')
         .row(numero="2" titulo="Fijar metas")
           .col-md-10.mb-4.mb-md-0.py-3
-            p.text-small El emprendedor debe planificar continuamente sus tareas de manera organizada y sistemática, realizando seguimiento y control de los procesos que se van a desarrollar en la organización, con el fin de realizar los ajustes necesarios para el cumplimiento de las metas y objetivos planteados.
-            p.text-small La planificación es necesaria, porque de ella depende la estimación de los recursos humanos, financieros y operativos, que se requieren hoy y en el futuro, para determinar indicadores que puedan medir el nivel de cumplimiento de los objetivos y metas propuestas y, si es necesario, hacer los ajuste para que estos se cumplan de manera eficiente.
+            p.text-small Es importante que antes de iniciar cualquier proceso el emprendedor debe fijar metas, porque con ello define qué es lo que quiere alcanzar a corto, mediano y largo plazo. Esta característica es un insumo para que pueda estimar qué recursos requiere cuando planifique su idea de negocio.
 
           .col-md-2
             figure
@@ -266,7 +265,7 @@
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-23.svg')
-        .row(numero="8" titulo="Exige eficiencia y calidad")
+        .row(numero="8" titulo="Buscar información")
           .col-md-10.mb-4.mb-md-0
             p.text-small La información es un elemento importante en la cual debe apoyarse el emprendedor, para tomar decisiones documentadas y estructuradas, para mitigar los riesgos que se puedan presentar en el proyecto. Cuando el emprendedor no se informa, no tiene el sustento documental que le permita tomar decisiones acertadas y esto lo lleva al fracaso.
           .col-md-2
@@ -296,7 +295,7 @@
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4.fnd-4
           p El comportamiento emprendedor es tener la capacidad de identificar una necesidad en el entorno, generar y explorar la creatividad en ideas exitosas y convertir esas ideas en una oportunidad de negocio que satisfaga la necesidad encontrada, sea rentable y se mantenga en el tiempo.
-    p.mb-5 Como referente científico en el estudio del comportamiento emprendedor se da la teoría de las necesidades adquiridas, citada por Padovan, I (2020) en Teorías de la motivación. Aplicación práctica, quien, citando a McClelland y a sus socios, explica que “las personas poseen tres necesidades que operan a nivel inconsciente y son adquiridas a lo largo de la vida mediante el aprendizaje. Además, intervienen en simultáneo y generalmente se posee una tendencia hacia una por sobre las demás. Estas necesidades son: necesidad de logro o realización, necesidad de poder y necesidad de afiliación o social” (p.17).
+    p.mb-5 Como referente científico en el estudio del comportamiento emprendedor se da la teoría de las necesidades adquiridas, citada por Padovan, I (2020) en <em>Teorías de la motivación. Aplicación práctica,</em> quien, citando a McClelland y a sus socios, explica que “las personas poseen tres necesidades que operan a nivel inconsciente y son adquiridas a lo largo de la vida mediante el aprendizaje. Además, intervienen en simultáneo y generalmente se posee una tendencia hacia una por sobre las demás. Estas necesidades son: necesidad de logro o realización, necesidad de poder y necesidad de afiliación o social” (p.17).
 
 
     TabsC.color-acento-contenido.mb-5
@@ -346,7 +345,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-32.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Pero, aparte de tener ciertas características, un emprendedor debe contar con un aspecto fundamental: la innovación social. Esta se define como todas aquellas ideas nuevas sobre productos, servicios y modelos que solucionan un problema social o cubren una necesidad, de forma más eficaz y eficiente que las alternativas actuales y al mismo tiempo establecen nuevas relaciones sociales y sinergias, según lo expresado por Carazo (2018).
+            p Pero, aparte de tener ciertas características, un emprendedor debe contar con un aspecto fundamental: <b>la innovación social.</b> Esta se define como todas aquellas ideas nuevas sobre productos, servicios y modelos que solucionan un problema social o cubren una necesidad, de forma más eficaz y eficiente que las alternativas actuales y al mismo tiempo establecen nuevas relaciones sociales y sinergias, según lo expresado por Carazo (2018).
 
     ul.lista-ul--color.mor.mb-3
       li 
@@ -363,7 +362,7 @@
           SlyderA(tipo="b")
             .row
               .col-md-6.mb-4.mb-md-0.p-5
-                p Un proyecto productivo es un conjunto de actividades y recursos que debe determinar un emprendedor, con el fin de crear y producir un bien o servicio, para satisfacer necesidades, solucionar un problema o beneficiarse de una oportunidad del entorno o del mercado.
+                p <b>Un proyecto productivo</b> es un conjunto de actividades y recursos que debe determinar un emprendedor, con el fin de crear y producir un bien o servicio, para satisfacer necesidades, solucionar un problema o beneficiarse de una oportunidad del entorno o del mercado.
             
               .col-md-6
                 figure
@@ -381,7 +380,7 @@
 
             .row
               .col-md-6.mb-4.mb-md-0.p-5
-                p Las personas que han incursionado en el emprendimiento, tienen la gran responsabilidad de evaluar en qué condiciones se encuentra el sistema en el que están incursionando; identificar qué problemas se están presentado a nivel social, para buscar una alternativa con su emprendimiento y que le permita crear un nuevo equilibrio y cambiar lo anticuado, buscando satisfacer una necesidad.
+                p Las personas que han incursionado en el emprendimiento, tienen la gran responsabilidad de evaluar en qué condiciones se encuentra el sistema en el que están incursionando; identificar qué problemas se están presentando a nivel social, para buscar una alternativa con su emprendimiento y que le permita crear un nuevo equilibrio y cambiar lo anticuado, buscando satisfacer una necesidad.
             
               .col-md-6
                 figure

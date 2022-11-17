@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 El emprendimiento
+      h1 Modelo de negocio
 
 
     .row.justify-content-center.align-items-center.mb-3
