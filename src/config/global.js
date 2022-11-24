@@ -139,7 +139,7 @@ export default {
       referencia:
         'La Opinión. (2021).<em> Construcción, minería y salud; lo sectores económicos con menos evolución tecnológica en Colombia. </em>La opinión.',
       link:
-        'https://www.laopinion.com.co/tecnologia/construccion-mineria-y-salud-sectores-con-menos-evolucion-tecnologica-en-colombia.',
+        'https://www.laopinion.com.co/tecnologia/construccion-mineria-y-salud-sectores-con-menos-evolucion-tecnologica-en-colombia',
     },
     {
       referencia:
@@ -162,11 +162,6 @@ export default {
         'Padovan, I. Teorías de la motivación: aplicación práctica. [Trabajo de investigación, licenciatura en administración, Universidad Nacional de Cuyo]. Biblioteca digital/ uncu.',
       link:
         'https://bdigital.uncu.edu.ar/objetos_digitales/15664/teorias-de-la-motivacin.-aplicacin-prctica.pdf',
-    },
-    {
-      referencia:
-        'Ramírez, M. (2016). <em>Estado del arte.</em> Universidad de Los Andes.',
-      link: 'https://leo.uniandes.edu.co/images/Guias/Estadodelarte.pdf',
     },
   ],
   glosario: [
