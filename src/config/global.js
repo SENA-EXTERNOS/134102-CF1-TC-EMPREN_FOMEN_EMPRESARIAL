@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Comportamiento emprendedor, innovación y modelo de negocio',
     descripcionCurso:
-      'Este componente formativo tiene como objetivo identificar los elementos clave que identifican el comportamiento de un emprendedor, teniendo en cuenta los retos personales y productivos de su entorno, la innovación y las herramientas que le faciliten un modelo de negocio, el cual se proyecte de acuerdo con las necesidades del mercado.',
+      'Este componente formativo tiene como objetivo identificar los elementos clave, que identifican el comportamiento de un emprendedor, teniendo en cuenta los retos personales y productivos de su entorno, la innovación y las herramientas que le faciliten un modelo de negocio, el cual se proyecta de acuerdo con las necesidades del mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [
@@ -243,33 +243,33 @@ export default {
   ],
   complementario: [
     {
-      tema: 'Vigilancia estratégica e innovación',
+      tema: 'El emprendimiento',
       referencia:
-        'Maldonado, N. P., y Triana, W. A. (2019).<em> Metodología de elaboración de proyectos productivos e innovadores. pdf.</em> Repositorio Sena.',
-      tipo: 'PDF',
-      link:
-        'https://repositorio.sena.edu.co/bitstream/handle/11404/5828/metodologia_elaboracion_proyectos_productivos_innovadores.pdf?sequence=1&isAllowed=y',
+        'De la idea a tu negocio. (2015). Lección 4: El perfil de un emprendedor (video).',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=tKMuV0j9bRA',
     },
     {
       tema: 'Vigilancia estratégica e innovación',
       referencia:
-        'Emprendetube. (2021).<em> Cómo crear una marca comercial paso a paso</em>(video). YouTube.',
+        'Maldonado, N. P., y Triana, W. A. (2019). Metodología de elaboración de proyectos productivos e innovadores.',
+      tipo: 'PDF',
+      link:
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/5828/metodologia_elaboracion_proyectos_productivos_innovadores.pdf?sequence=1&isAllowed=y ',
+    },
+    {
+      tema: 'Vigilancia estratégica e innovación',
+      referencia:
+        'Emprendetube. (2021). Cómo crear una marca comercial paso a paso (video).',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=-1PWX59R_jI',
+      link: 'https://www.youtube.com/watch?v=-1PWX59R_jI ',
     },
     {
       tema: 'Modelo de negocio',
       referencia:
-        'Gastronomía Rentable. (2016).<em> El punto de equilibrio</em> (video). YouTube.',
+        'Gastronomía Rentable. (2016). El punto de equilibrio (video).',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=5ZpQ0j5qb4k',
-    },
-    {
-      tema: 'Perfil emprendedor',
-      referencia:
-        'De la idea a tu negocio. (17 de 12 de 2015).<em> Leccion 4: El perfil de un emprendedor.</em>',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=tKMuV0j9bRA',
     },
   ],
   creditos: {

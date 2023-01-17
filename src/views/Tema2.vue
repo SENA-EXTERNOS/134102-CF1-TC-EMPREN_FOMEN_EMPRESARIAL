@@ -7,39 +7,38 @@
       .titulo-principal__numero
         span 2
       h1 Vigilancia estratégica e innovación
-    p En este punto, debemos reconocer que una de las principales herramientas del emprendedor es conocer el entorno y qué cosas se están innovando, para realizar un análisis y definir los recursos necesarios para lograr ser competitivo y generar un cambio.
-    p.mb-5 Estos son los fundamentos para la creación de proyectos productivos:    
+
+    p En este punto, se debe reconocer que una de las principales herramientas del emprendedor es conocer el entorno y qué cosas se están innovando, para realizar un análisis y definir los recursos necesarios para lograr ser competitivo y generar un cambio.
+
+    p Es así como se deben conocer los fundamentos para la creación de proyectos productivos:    
 
     .row.justify-content-center.align-items-center.mb-5
-    
+      SlyderF.mb-5.row(columnas="col-lg-6 col-xl-4")
+        .tarjeta.color-acento-botones.p-4.fnd-5-.tarjeta-avatar1.background-tarjetas
+          .row.justify-content-center.mb-3
+            .col-8
+              img.img-150.img-t(src='@/assets/curso/temas/tema2/img-1.svg' alt='AvatarTop')
+          p.text-center.px-4 Un proyecto socialmente productivo, donde la función es sentir a las personas útiles a la sociedad y a ellos mismos (Triana Albis & Maldonado Zarate, 2019, p.15).
+        .tarjeta.color-acento-botones.p-4.fnd-5-.tarjeta-avatar1.background-tarjetas
+          .row.justify-content-center.mb-3
+            .col-8
+              img.img-150.img-t(src='@/assets/curso/temas/tema2/img-2.svg' alt='AvatarTop')
+          p.text-center.px-4 El proyecto debe generar rentabilidad de acuerdo con el nivel de ingresos, el cual debe ser satisfactorio y equitativo. 
+        .tarjeta.color-acento-botones.p-4.fnd-5-.tarjeta-avatar1.background-tarjetas
+          .row.justify-content-center.mb-3
+            .col-8
+              img.img-150.img-t(src='@/assets/curso/temas/tema2/img-3.svg' alt='AvatarTop')
+          p.text-center.px-4 Debe identificar el nivel adecuado de educación y cultura, para que las personas puedan comprender la realidad económica-social y política, del entorno, con el fin de obtener una mejora continua.   
+        .tarjeta.color-acento-botones.p-4.fnd-5-.tarjeta-avatar1.background-tarjetas
+          .row.justify-content-center.mb-3
+            .col-8
+              img.img-150.img-t(src='@/assets/curso/temas/tema2/img-4.svg' alt='AvatarTop')
+          p.text-center.px-4 Es muy importante que se tenga la evaluación de los recursos, la normatividad legal que incide en el proyecto, la independencia en la toma de decisiones y la preservación del medio ambiente. 
 
+    .row.justify-content-center.align-items-center.mb-5
+      p Para comprobar si la idea es factible, técnica, económica y financieramente, se deben tener en cuenta algunos procesos que mencionaremos a continuación. 
 
-
-    SlyderF.mb-5.row(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4.fnd-5-.tarjeta-avatar1
-        .row.justify-content-center.mb-3
-          .col-8
-            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-1.svg' alt='AvatarTop')
-        p.text-center.px-4 Un proyecto socialmente productivo, donde la función es sentir a las personas útiles a la sociedad y a ellos mismos (Triana Albis & Maldonado Zarate, 2019, p.15).
-      .tarjeta.color-acento-botones.p-4.fnd-5-.tarjeta-avatar1
-        .row.justify-content-center.mb-3
-          .col-8
-            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-2.svg' alt='AvatarTop')
-        p.text-center.px-4 El proyecto debe generar rentabilidad de acuerdo con el nivel de ingresos, el cual debe ser satisfactorio y equitativo. 
-      .tarjeta.color-acento-botones.p-4.fnd-5-.tarjeta-avatar1
-        .row.justify-content-center.mb-3
-          .col-8
-            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-3.svg' alt='AvatarTop')
-        p.text-center.px-4 Debe identificar el nivel adecuado de educación y cultura, para que las personas puedan comprender la realidad económica-social y política, del entorno, con el fin de obtener una mejora continua.   
-      .tarjeta.color-acento-botones.p-4.fnd-5-.tarjeta-avatar1
-        .row.justify-content-center.mb-3
-          .col-8
-            img.img-150.img-t(src='@/assets/curso/temas/tema2/img-4.svg' alt='AvatarTop')
-        p.text-center.px-4 Es muy importante que se tenga la evaluación de los recursos, la normatividad legal que incide en el proyecto, la independencia en la toma de decisiones y la preservación del medio ambiente. 
-    br 
-    p Dentro de este orden de ideas, nos encontramos con el plan de negocios, una etapa que también es fundamental para la creación de proyectos productivos.
-    p.mb-5 Estas son algunas pautas para el plan de negocios:
-
+      p Aspectos clave para la viabilidad económica de un proyecto.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -127,7 +126,7 @@
 
           .tarjeta.color-n.p-3(x="44.4%" y="79%" numero="2")
             h3.mb-3.text-white Localización 
-            p Este aspecto expone adónde debemos identificar el lugar en donde se va a ubicar la empresa, teniendo en cuenta el mercado, los proveedores, las condiciones geográficas y demográficas, entre otros.
+            p Este aspecto expone a dónde debemos identificar el lugar en donde se va a ubicar la empresa, teniendo en cuenta el mercado, los proveedores, las condiciones geográficas y demográficas, entre otros.
 
           .tarjeta.color-n.p-3(x="44.4%" y="56%" numero="3")
             h3.mb-3.text-white Financiamiento 

@@ -90,8 +90,8 @@
               figure
                 img.img-93(src='@/assets/curso/temas/tema3/img-3.svg')  
             .col-lg-10.mb-3
-              p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. <br><br>  Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
-
+              p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+              
 
 
 

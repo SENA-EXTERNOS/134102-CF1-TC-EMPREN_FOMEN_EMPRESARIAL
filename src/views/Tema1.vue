@@ -28,12 +28,12 @@
                 :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-1.png')})`}"
               )
               .bloque-texto-g__texto.p-4
-                p La palabra emprendimiento proviene del francés <em>entrepreneur</em> (pionero), y se refiere a la capacidad de una persona para hacer un esfuerzo adicional por alcanzar una meta u objetivo, siendo utilizada también para referirse a la persona que inicia una nueva empresa o proyecto, término que después fue aplicado a empresarios que fueron innovadores o agregaban valor a un producto, servicio o proceso ya existente. (Abambari M. J., p.2)
+                p La palabra emprendimiento proviene del francés entrepreneur (pionero), y se refiere a la capacidad de una persona para hacer un esfuerzo adicional por alcanzar una meta u objetivo, siendo utilizada también para referirse a la persona que inicia una nueva empresa o proyecto, término que después fue aplicado a empresarios que fueron innovadores o agregaban valor a un producto, servicio o proceso ya existente. 
 
 
-    p.mb-5 Es importante conocer y entender a qué nos referimos cuando mencionamos la palabra emprendedor. Su concepto y sus características se indican a continuación.
+    p.mb-5 Es importante ahondar acerca del emprendimiento y qué abarca, es así como a continuación se explica su algunos conceptos y sus características:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .tarjeta.tarjeta--azul.p-4.mb-5.fnd-1.p-5
           SlyderA(tipo="b")
             .row
@@ -57,9 +57,9 @@
         | 
         h3.text-black Características de un emprendedor
 
-    p.mb-5 Son varios los autores que definen las diferentes características que debe tener un emprendedor. En este tema también se mencionan algunas, tal como las describe Abambari, M. J. (p.8).
-    p.mb-5 Características que debe tener un emprendedor exitoso:
-    BR
+    p Son varios los autores que definen las características que debe tener un emprendedor. 
+
+    p Las características que debe tener un emprendedor son indispensables para garantizar los procesos exitosos que se buscan (Abambari, M. J., 2016, p.8):
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -74,7 +74,8 @@
         .tarjeta.color-acento-botones.fnd-2.p-4(titulo="Visión")
           .row
             .col-xl-6.mb-4
-              p El trabajo que tiene el emprendedor es el de definir claramente adónde quiere llegar y cómo lo va a lograr; para esto debe establecer estrategias que le permitan alcanzar los resultados esperados. Abambari, M. (2016) citando a Syrett (2010), indica que para alcanzar el éxito cada emprendedor necesita un plan y la visualización de los objetivos finales, Sin embargo, la visión sin ejecución no significa nada (p. 8). 
+              p El trabajo que tiene el emprendedor es el de definir claramente a dónde quiere llegar y cómo lo va a lograr; para esto debe establecer estrategias que le permitan alcanzar los resultados esperados. Abambari, M. (2016) citando a Syrett (2010), indica que para alcanzar el éxito cada emprendedor necesita un plan y la visualización de los objetivos finales, Sin embargo, la visión sin ejecución no significa nada (p. 8).
+
             .col-xl-6
               figure
                 img(src='@/assets/curso/temas/tema1/img-5.png')     
@@ -105,8 +106,12 @@
         .tarjeta.color-acento-botones.fnd-2.p-4(titulo="Sentido de oportunidad")
           .row
             .col-xl-6.mb-4
-              p El emprendedor exitoso es aquel que, en su entorno, identifica problemas, necesidades, oportunidades del mercado y busca alternativas creativas e innovadoras, demostrando todas sus capacidades y habilidades para ofrecer un producto que satisfaga una necesidad, un problema, y/o una oportunidad real existente <br><br> En este punto, el emprendedor debe tener la capacidad de insistir en que su idea se materialice ante los posibles inconvenientes que se le puedan presentar y buscar la manera para que los resultados esperados se logren. <br><br>   Tener en cuenta la frase de Abambari, M. (s.f.), que dice: “la persistencia debe ir de la mano con la sensatez” (p.8).
- 
+              p El emprendedor exitoso es aquel que, en su entorno, identifica problemas, necesidades, oportunidades del mercado y busca alternativas creativas e innovadoras, demostrando todas sus capacidades y habilidades para ofrecer un producto que satisfaga una necesidad, un problema, y/o una oportunidad real existente.
+
+              p En este punto, el emprendedor debe tener la capacidad de insistir en que su idea se materialice ante los posibles inconvenientes que se le puedan presentar y buscar la manera para que los resultados esperados se logren. 
+
+              p Tener en cuenta la frase de Abambari, M. (s.f.), que dice: “la persistencia debe ir de la mano con la sensatez” (p.8).
+
             .col-xl-6
               figure
                 img(src='@/assets/curso/temas/tema1/img-9.png')     
@@ -149,17 +154,17 @@
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Comportamiento emprendedor
 
-    p.mb-5 El comportamiento emprendedor se refiere a la capacidad de identificar fácilmente una oportunidad de negocio que, posiblemente, otros no logran ver. Es aprovechar cada oportunidad que el entorno le ofrece, para satisfacer una necesidad o solucionar un problema.
+    p.mb-5 El comportamiento emprendedor se refiere a la capacidad de identificar fácilmente una oportunidad de negocio que posiblemente, otros no logran ver. Es aprovechar cada oportunidad que el entorno le ofrece, para satisfacer una necesidad o solucionar un problema.
 
-    p.mb-5 Conozca algunos planteamientos relacionados con el comportamiento emprendedor:
+    p.mb-5 El comportamiento del emprendedor debe ser diferente, autentico y cautivante, es así como se presentan, algunos planteamientos relacionados con su comportamiento:
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--azul.p-4.mb-5.fnd-1.p-5
           SlyderA(tipo="b")
             .row
               .col-md-6.mb-4.mb-md-0.p-5
-                p Los primeros científicos sociales que estudiaron el emprendimiento, observaron sus enormes beneficios a través de las empresas que eran creadas por personas con cualidades aparentemente especiales. Sin embargo, a medida que conocían más sobre el emprendimiento, los científicos dejaron de lado las habilidades empresariales de las personas que estaban detrás de esas ideas de negocio, y se concentraron en estudiar más de cerca las motivaciones que impulsaron, en algún momento, a esas personas a transformar en realidad sus ideas. Uno de estos científicos fue el psicólogo David McClelland.
-            
+                p Los primeros científicos sociales que estudiaron el emprendimiento, observaron sus enormes beneficios a través de las empresas que eran creadas por personas con cualidades aparentemente especiales. Sin embargo, a medida que conocían más sobre el emprendimiento, los científicos dejaron de lado las habilidades empresariales de las personas que estaban detrás de esas ideas de negocio, y se concentraron en estudiar más de cerca las motivaciones que impulsaron, en algún momento, a esas personas a transformar en realidad sus ideas. 
+
               .col-md-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img-14.png')
@@ -172,118 +177,142 @@
                   img(src='@/assets/curso/temas/tema1/img-15.png')
 
       p.mb-5 Sobre el comportamiento emprendedor, es importante mencionar también aquellas características que más se destacan en las personas emprendedoras.
-      p.mb-5 A continuación, se presenta una imagen donde se pueden observar, claramente, algunas de esas características emprendedoras personales:
+
+      p.mb-5 A continuación, se puede observar, claramente, algunas de esas características emprendedoras personales (C.E.P):
+
+      
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
           figure
             img(src='@/assets/curso/temas/tema1/img-16-.png')  
+            figcaption.align-leyenda Nota. Tomada y adaptada de Gutiérrez, A. N., Martínez, L.F., Gómez, M. P., García, G.A., Caycedo, M. (2020). 
 
 
-    p.mb-3 Cada una de estas características juega un papel importante en el emprendedor porque, con ellas, la gestión que realiza con sus colaboradores se refleja en alcanzar los objetivos trazados. 
-    p.mb-5 Para mayor claridad se explicará a continuación cada una de ellas:
+    p.mb-3 Las características, juegan un papel importante en el emprendedor porque con ellas, la gestión que realiza con sus colaboradores se refleja en alcanzar los objetivos trazados. 
 
     LineaTiempoD.color-acento-contenido.mb-5
         .row.align-items-center.py-2(numero="1" titulo="Planificar sistemáticamente")
+          .col-md-2.pt-0
+            figure
+              img(src='@/assets/curso/temas/tema1/img-17.svg')
+          
           .col-md-10.mb-4.mb-md-0
             p.text-small El emprendedor debe planificar continuamente sus tareas de manera organizada y sistemática, realizando seguimiento y control de los procesos que se van a desarrollar en la organización, con el fin de realizar los ajustes necesarios para el cumplimiento de las metas y objetivos planteados.
               br 
               p.text-small La planificación es necesaria, porque de ella depende la estimación de los recursos humanos, financieros y operativos, que se requieren hoy y en el futuro, para determinar indicadores que puedan medir el nivel de cumplimiento de los objetivos y metas propuestas y, si es necesario, hacer los ajuste para que estos se cumplan de manera eficiente.
 
-          .col-md-2.pt-0
-            figure
-              img(src='@/assets/curso/temas/tema1/img-17.svg')
+          
         .row(numero="2" titulo="Fijar metas")
-          .col-md-10.mb-4.mb-md-0.py-3
-            p.text-small Es importante que antes de iniciar cualquier proceso el emprendedor debe fijar metas, porque con ello define qué es lo que quiere alcanzar a corto, mediano y largo plazo. Esta característica es un insumo para que pueda estimar qué recursos requiere cuando planifique su idea de negocio.
-
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-18.svg')
+          
+          .col-md-10.mb-4.mb-md-0.py-3
+            p.text-small Es importante que antes de iniciar cualquier proceso el emprendedor debe fijar metas, porque con ello define qué es lo que quiere alcanzar a corto, mediano y largo plazo. Esta característica es un insumo para que pueda estimar qué recursos requiere cuando planifique su idea de negocio.
+
+          
+        
         .row(numero="3" titulo="Estas características se pueden agrupar, en una palabra:<b> MAREAR.</b>")
+          .col-md-2
+            figure
+              img(src='@/assets/curso/temas/tema1/img-19.svg')
+          
           .col-md-10.mb-4.mb-md-0
  
             ul.lista-ul--color.py-3.pb-0
               li 
-                i.fas.fa-greater-than.circle
+                i.fas.fa-angle-right
                 p.mb-0 
                   b Medibles: 
                   | definen elementos medibles que permitan evaluar el cumplimiento de las metas (tiempos, cantidades, distancias, etc.).
               li 
-                i.fas.fa-greater-than.circle 
+                i.fas.fa-angle-right
                 p.mb-0 
                   b Alcanzables: 
                   | analizan el contexto (lugar) para cumplir las metas.
               li 
-                i.fas.fa-greater-than.circle
+                i.fas.fa-angle-right
                 p.mb-0 
                   b Realista:
                   | analiza los recursos que se requieren para cumplir las metas (recursos económicos, productivos, humanos, tecnológicos).
               li 
-                i.fas.fa-greater-than.circle
+                i.fas.fa-angle-right
                 p.mb-0 
                   b Específicas:
                   | se deben escribir las metas de manera clara, para evitar que otras personas las entiendan de forma equivocada.
               li 
-                i.fas.fa-greater-than.circle
+                i.fas.fa-angle-right
                 p.mb-0 
                   b Acotadas:
                   | determinan el tiempo necesario para cumplir las metas, de manera que se pueda verificar su cumplimiento.
               li 
-                i.fas.fa-greater-than.circle
+                i.fas.fa-angle-right
                 p.mb-0 
                   b Realista:
                   | analiza los recursos que se requieren para cumplir las metas (recursos económicos, productivos, humanos, tecnológicos).
             p (Gutiérrez et al., 2020, p.24)
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema1/img-19.svg')
+          
         .row(numero="4" titulo="Crear redes de apoyo")
-          .col-md-10.mb-4.mb-md-0
-            p.text-small El emprendedor por sí solo no logra los objetivos; debe realizarse un autodiagnóstico para identificar cuáles son las fortalezas y debilidades, para buscar ayuda o apoyo de personas que le puedan fortalecer esa debilidad y que, conjuntamente, uniendo esfuerzos, logren los objetivos y las metas propuestas.
-            p.text-small Crear y conformar redes de apoyo es una buena estrategia que el emprendedor debe realizar, con el fin de establecer buenas relaciones y conformar un equipo que le permita aprender nuevas ideas y generar cambios en su emprendimiento.
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-20.svg')
-        .row(numero="5" titulo="Buscar oportunidades y tener iniciativa")
+          
           .col-md-10.mb-4.mb-md-0
-            p.text-small Esta característica, como la demás, es muy importante porque el emprendedor debe salir de su zona de confort y buscar nuevas oportunidades que el entorno le ofrece, generando ideas creativas e innovadoras que impacten el mercado al cual está dirigido y satisfaciendo las necesidades existentes.
-
+            p.text-small El emprendedor por sí solo no logra los objetivos; debe realizarse un autodiagnóstico para identificar cuáles son las fortalezas y debilidades, para buscar ayuda o apoyo de personas que le puedan fortalecer esa debilidad y que, conjuntamente, uniendo esfuerzos, logren los objetivos y las metas propuestas.
+            p.text-small Crear y conformar redes de apoyo es una buena estrategia que el emprendedor debe realizar, con el fin de establecer buenas relaciones y conformar un equipo que le permita aprender nuevas ideas y generar cambios en su emprendimiento.
+          
+        .row(numero="5" titulo="Buscar oportunidades y tener iniciativa")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-21.svg')
-        .row(numero="6" titulo="Exige eficiencia y calidad")
+          
           .col-md-10.mb-4.mb-md-0
-            p.text-small Todo emprendedor debe realizar sus actividades con eficiencia y calidad, optimizando los recursos, para que la productividad proyectada se vea reflejada en cifras y beneficios de crecimiento en el mercado y en la estructura.
+            p.text-small Esta característica, como la demás, es muy importante porque el emprendedor debe salir de su zona de confort y buscar nuevas oportunidades que el entorno le ofrece, generando ideas creativas e innovadoras que impacten el mercado al cual está dirigido y satisfaciendo las necesidades existentes.
 
+          
+        .row(numero="6" titulo="Exige eficiencia y calidad")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-22.svg')
-        .row(numero="7" titulo="Ser persistente")
+          
           .col-md-10.mb-4.mb-md-0
-            p.text-small Cuando un emprendedor es persistente, puede alcanzar el éxito prontamente, porque es una persona que no le tiene miedo a caer y levantarse hasta que logra su objetivo final. No tiene miedo de los riesgos, los asume y si fracasa inicia nuevamente hasta lograr lo que quiere.
+            p.text-small Todo emprendedor debe realizar sus actividades con eficiencia y calidad, optimizando los recursos, para que la productividad proyectada se vea reflejada en cifras y beneficios de crecimiento en el mercado y en la estructura.
 
+          
+        .row(numero="7" titulo="Ser persistente")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-23.svg')
-        .row(numero="8" titulo="Buscar información")
+          
           .col-md-10.mb-4.mb-md-0
-            p.text-small La información es un elemento importante en la cual debe apoyarse el emprendedor, para tomar decisiones documentadas y estructuradas, para mitigar los riesgos que se puedan presentar en el proyecto. Cuando el emprendedor no se informa, no tiene el sustento documental que le permita tomar decisiones acertadas y esto lo lleva al fracaso.
+            p.text-small Cuando un emprendedor es persistente, puede alcanzar el éxito prontamente, porque es una persona que no le tiene miedo a caer y levantarse hasta que logra su objetivo final. No tiene miedo de los riesgos, los asume y si fracasa inicia nuevamente hasta lograr lo que quiere.
+
+          
+        .row(numero="8" titulo="Buscar información")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-24.svg')
-        .row(numero="9" titulo="Cumplir compromisos")
+          
           .col-md-10.mb-4.mb-md-0
-            p.text-small Una característica que debe demostrar a las personas con las cuales tiene relaciones comerciales y personales, es que es una persona seria, responsable y, lo más importante, que cumple con los compromisos que adquiere; esto genera confianza y seguridad de sí mismo y a los demás les genera respeto.
+            p.text-small La información es un elemento importante en la cual debe apoyarse el emprendedor, para tomar decisiones documentadas y estructuradas, para mitigar los riesgos que se puedan presentar en el proyecto. Cuando el emprendedor no se informa, no tiene el sustento documental que le permita tomar decisiones acertadas y esto lo lleva al fracaso.
+          
+        .row(numero="9" titulo="Cumplir compromisos")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-25.svg')
-        .row(numero="10" titulo="Correr riesgos moderados")
+          
           .col-md-10.mb-4.mb-md-0
-            p.text-small Una persona exitosa es aquella que, en un momento de su vida, asumió y se dio cuenta de los riesgos que se pueden presentar durante el emprendimiento, pero fue capaz de superar la dificultad tomando una decisión acertada y demostrando dos características importantes: la autoconfianza y la perseverancia para alcanzar sus metas.
-
+            p.text-small Una característica que debe demostrar a las personas con las cuales tiene relaciones comerciales y personales, es que es una persona seria, responsable y, lo más importante, que cumple con los compromisos que adquiere; esto genera confianza y seguridad de sí mismo y a los demás les genera respeto.
+          
+        .row(numero="10" titulo="Correr riesgos moderados")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-26.svg')
+          
+          .col-md-10.mb-4.mb-md-0
+            p.text-small Una persona exitosa es aquella que, en un momento de su vida, asumió y se dio cuenta de los riesgos que se pueden presentar durante el emprendimiento, pero fue capaz de superar la dificultad tomando una decisión acertada y demostrando dos características importantes: la autoconfianza y la perseverancia para alcanzar sus metas.
+
+          
 
 
 
@@ -294,8 +323,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4.fnd-4
-          p El comportamiento emprendedor es tener la capacidad de identificar una necesidad en el entorno, generar y explorar la creatividad en ideas exitosas y convertir esas ideas en una oportunidad de negocio que satisfaga la necesidad encontrada, sea rentable y se mantenga en el tiempo.
-    p.mb-5 Como referente científico en el estudio del comportamiento emprendedor se da la teoría de las necesidades adquiridas, citada por Padovan, I (2020) en <em>Teorías de la motivación. Aplicación práctica,</em> quien, citando a McClelland y a sus socios, explica que “las personas poseen tres necesidades que operan a nivel inconsciente y son adquiridas a lo largo de la vida mediante el aprendizaje. Además, intervienen en simultáneo y generalmente se posee una tendencia hacia una por sobre las demás. Estas necesidades son: necesidad de logro o realización, necesidad de poder y necesidad de afiliación o social” (p.17).
+          p El comportamiento emprendedor es tener la capacidad de identificar una necesidad en el entorno, generar y explorar la creatividad en ideas exitosas y convertir esas ideas en una oportunidad de negocio, que satisfaga la necesidad encontrada y que esta sea rentable y se mantenga en el tiempo.
+    p.mb-5 Como referente científico en el estudio del comportamiento emprendedor se da la teoría de las necesidades adquiridas, citada por Padovan, I. (2020) en Teorías de la motivación. Aplicación práctica, quien, citando a McClelland y a sus socios, explica que “las personas poseen tres necesidades que operan a nivel inconsciente y son adquiridas a lo largo de la vida mediante el aprendizaje. Además, intervienen en simultáneo y generalmente se posee una tendencia hacia una por sobre las demás. Estas necesidades son: necesidad de logro o realización, necesidad de poder y necesidad de afiliación o social” (p.17).
 
 
     TabsC.color-acento-contenido.mb-5
@@ -345,7 +374,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-32.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Pero, aparte de tener ciertas características, un emprendedor debe contar con un aspecto fundamental: <b>la innovación social.</b> Esta se define como todas aquellas ideas nuevas sobre productos, servicios y modelos que solucionan un problema social o cubren una necesidad, de forma más eficaz y eficiente que las alternativas actuales y al mismo tiempo establecen nuevas relaciones sociales y sinergias, según lo expresado por Carazo (2018).
+            p Se debe tener en cuenta que, aparte de ciertas características, un emprendedor debe contar con un aspecto fundamental: la innovación social. Esta se define como todas aquellas ideas nuevas sobre productos, servicios y modelos que solucionan un problema social o cubren una necesidad, de forma más eficaz y eficiente que las alternativas actuales y al mismo tiempo establecen nuevas relaciones sociales y sinergias, según lo expresado por Carazo (2018).
 
     ul.lista-ul--color.mor.mb-3
       li 
