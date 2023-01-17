@@ -140,7 +140,7 @@
             .col-xl-6
               figure
                 img(src='@/assets/curso/temas/tema1/img-12.png')              
-        .tarjeta.color-acento-botones.fnd-2.p-4(titulo="Planificación estratégica a largo plazo")
+        .tarjeta.color-acento-botones.fnd-2.p-4(titulo="Planificación estratégica<br> a largo plazo")
           .row
             .col-xl-6.mb-4
               p Un emprendedor no debe ser reactivo; debe ser previsivo, no solo para los cambios del mercado y el entorno, sino anticiparse al futuro, tomando las decisiones apropiadas y oportunas; de la anticipación y la oportunidad, dependerán, en buena medida, el éxito y la supervivencia. 
@@ -156,7 +156,7 @@
 
     p.mb-5 El comportamiento emprendedor se refiere a la capacidad de identificar fácilmente una oportunidad de negocio que posiblemente, otros no logran ver. Es aprovechar cada oportunidad que el entorno le ofrece, para satisfacer una necesidad o solucionar un problema.
 
-    p.mb-5 El comportamiento del emprendedor debe ser diferente, autentico y cautivante, es así como se presentan, algunos planteamientos relacionados con su comportamiento:
+    p.mb-5 El comportamiento del emprendedor debe ser diferente, auténtico y cautivante, es así como se presentan, algunos planteamientos relacionados con su comportamiento:
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--azul.p-4.mb-5.fnd-1.p-5
@@ -197,9 +197,9 @@
               img(src='@/assets/curso/temas/tema1/img-17.svg')
           
           .col-md-10.mb-4.mb-md-0
-            p.text-small El emprendedor debe planificar continuamente sus tareas de manera organizada y sistemática, realizando seguimiento y control de los procesos que se van a desarrollar en la organización, con el fin de realizar los ajustes necesarios para el cumplimiento de las metas y objetivos planteados.
+            p El emprendedor debe planificar continuamente sus tareas de manera organizada y sistemática, realizando seguimiento y control de los procesos que se van a desarrollar en la organización, con el fin de realizar los ajustes necesarios para el cumplimiento de las metas y objetivos planteados.
               br 
-              p.text-small La planificación es necesaria, porque de ella depende la estimación de los recursos humanos, financieros y operativos, que se requieren hoy y en el futuro, para determinar indicadores que puedan medir el nivel de cumplimiento de los objetivos y metas propuestas y, si es necesario, hacer los ajuste para que estos se cumplan de manera eficiente.
+              p La planificación es necesaria, porque de ella depende la estimación de los recursos humanos, financieros y operativos, que se requieren hoy y en el futuro, para determinar indicadores que puedan medir el nivel de cumplimiento de los objetivos y metas propuestas y, si es necesario, hacer los ajuste para que estos se cumplan de manera eficiente.
 
           
         .row(numero="2" titulo="Fijar metas")
@@ -208,7 +208,7 @@
               img(src='@/assets/curso/temas/tema1/img-18.svg')
           
           .col-md-10.mb-4.mb-md-0.py-3
-            p.text-small Es importante que antes de iniciar cualquier proceso el emprendedor debe fijar metas, porque con ello define qué es lo que quiere alcanzar a corto, mediano y largo plazo. Esta característica es un insumo para que pueda estimar qué recursos requiere cuando planifique su idea de negocio.
+            p Es importante que antes de iniciar cualquier proceso el emprendedor debe fijar metas, porque con ello define qué es lo que quiere alcanzar a corto, mediano y largo plazo. Esta característica es un insumo para que pueda estimar qué recursos requiere cuando planifique su idea de negocio.
 
           
         
@@ -258,8 +258,8 @@
               img(src='@/assets/curso/temas/tema1/img-20.svg')
           
           .col-md-10.mb-4.mb-md-0
-            p.text-small El emprendedor por sí solo no logra los objetivos; debe realizarse un autodiagnóstico para identificar cuáles son las fortalezas y debilidades, para buscar ayuda o apoyo de personas que le puedan fortalecer esa debilidad y que, conjuntamente, uniendo esfuerzos, logren los objetivos y las metas propuestas.
-            p.text-small Crear y conformar redes de apoyo es una buena estrategia que el emprendedor debe realizar, con el fin de establecer buenas relaciones y conformar un equipo que le permita aprender nuevas ideas y generar cambios en su emprendimiento.
+            p El emprendedor por sí solo no logra los objetivos; debe realizarse un autodiagnóstico para identificar cuáles son las fortalezas y debilidades, para buscar ayuda o apoyo de personas que le puedan fortalecer esa debilidad y que, conjuntamente, uniendo esfuerzos, logren los objetivos y las metas propuestas.
+            p Crear y conformar redes de apoyo es una buena estrategia que el emprendedor debe realizar, con el fin de establecer buenas relaciones y conformar un equipo que le permita aprender nuevas ideas y generar cambios en su emprendimiento.
           
         .row(numero="5" titulo="Buscar oportunidades y tener iniciativa")
           .col-md-2
@@ -267,7 +267,7 @@
               img(src='@/assets/curso/temas/tema1/img-21.svg')
           
           .col-md-10.mb-4.mb-md-0
-            p.text-small Esta característica, como la demás, es muy importante porque el emprendedor debe salir de su zona de confort y buscar nuevas oportunidades que el entorno le ofrece, generando ideas creativas e innovadoras que impacten el mercado al cual está dirigido y satisfaciendo las necesidades existentes.
+            p Esta característica, como la demás, es muy importante porque el emprendedor debe salir de su zona de confort y buscar nuevas oportunidades que el entorno le ofrece, generando ideas creativas e innovadoras que impacten el mercado al cual está dirigido y satisfaciendo las necesidades existentes.
 
           
         .row(numero="6" titulo="Exige eficiencia y calidad")
@@ -276,7 +276,7 @@
               img(src='@/assets/curso/temas/tema1/img-22.svg')
           
           .col-md-10.mb-4.mb-md-0
-            p.text-small Todo emprendedor debe realizar sus actividades con eficiencia y calidad, optimizando los recursos, para que la productividad proyectada se vea reflejada en cifras y beneficios de crecimiento en el mercado y en la estructura.
+            p Todo emprendedor debe realizar sus actividades con eficiencia y calidad, optimizando los recursos, para que la productividad proyectada se vea reflejada en cifras y beneficios de crecimiento en el mercado y en la estructura.
 
           
         .row(numero="7" titulo="Ser persistente")
@@ -285,7 +285,7 @@
               img(src='@/assets/curso/temas/tema1/img-23.svg')
           
           .col-md-10.mb-4.mb-md-0
-            p.text-small Cuando un emprendedor es persistente, puede alcanzar el éxito prontamente, porque es una persona que no le tiene miedo a caer y levantarse hasta que logra su objetivo final. No tiene miedo de los riesgos, los asume y si fracasa inicia nuevamente hasta lograr lo que quiere.
+            p Cuando un emprendedor es persistente, puede alcanzar el éxito prontamente, porque es una persona que no le tiene miedo a caer y levantarse hasta que logra su objetivo final. No tiene miedo de los riesgos, los asume y si fracasa inicia nuevamente hasta lograr lo que quiere.
 
           
         .row(numero="8" titulo="Buscar información")
@@ -294,7 +294,7 @@
               img(src='@/assets/curso/temas/tema1/img-24.svg')
           
           .col-md-10.mb-4.mb-md-0
-            p.text-small La información es un elemento importante en la cual debe apoyarse el emprendedor, para tomar decisiones documentadas y estructuradas, para mitigar los riesgos que se puedan presentar en el proyecto. Cuando el emprendedor no se informa, no tiene el sustento documental que le permita tomar decisiones acertadas y esto lo lleva al fracaso.
+            p La información es un elemento importante en la cual debe apoyarse el emprendedor, para tomar decisiones documentadas y estructuradas, para mitigar los riesgos que se puedan presentar en el proyecto. Cuando el emprendedor no se informa, no tiene el sustento documental que le permita tomar decisiones acertadas y esto lo lleva al fracaso.
           
         .row(numero="9" titulo="Cumplir compromisos")
           .col-md-2
@@ -302,7 +302,7 @@
               img(src='@/assets/curso/temas/tema1/img-25.svg')
           
           .col-md-10.mb-4.mb-md-0
-            p.text-small Una característica que debe demostrar a las personas con las cuales tiene relaciones comerciales y personales, es que es una persona seria, responsable y, lo más importante, que cumple con los compromisos que adquiere; esto genera confianza y seguridad de sí mismo y a los demás les genera respeto.
+            p Una característica que debe demostrar a las personas con las cuales tiene relaciones comerciales y personales, es que es una persona seria, responsable y, lo más importante, que cumple con los compromisos que adquiere; esto genera confianza y seguridad de sí mismo y a los demás les genera respeto.
           
         .row(numero="10" titulo="Correr riesgos moderados")
           .col-md-2
@@ -310,7 +310,7 @@
               img(src='@/assets/curso/temas/tema1/img-26.svg')
           
           .col-md-10.mb-4.mb-md-0
-            p.text-small Una persona exitosa es aquella que, en un momento de su vida, asumió y se dio cuenta de los riesgos que se pueden presentar durante el emprendimiento, pero fue capaz de superar la dificultad tomando una decisión acertada y demostrando dos características importantes: la autoconfianza y la perseverancia para alcanzar sus metas.
+            p Una persona exitosa es aquella que, en un momento de su vida, asumió y se dio cuenta de los riesgos que se pueden presentar durante el emprendimiento, pero fue capaz de superar la dificultad tomando una decisión acertada y demostrando dos características importantes: la autoconfianza y la perseverancia para alcanzar sus metas.
 
           
 
