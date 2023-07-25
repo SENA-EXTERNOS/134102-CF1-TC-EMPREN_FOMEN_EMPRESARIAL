@@ -31,7 +31,7 @@
                 p La palabra emprendimiento proviene del francés entrepreneur (pionero), y se refiere a la capacidad de una persona para hacer un esfuerzo adicional por alcanzar una meta u objetivo, siendo utilizada también para referirse a la persona que inicia una nueva empresa o proyecto, término que después fue aplicado a empresarios que fueron innovadores o agregaban valor a un producto, servicio o proceso ya existente. 
 
 
-    p.mb-5 Es importante ahondar acerca del emprendimiento y qué abarca, es así como a continuación se explica su algunos conceptos y sus características:
+    p.mb-5 Es importante ahondar acerca del emprendimiento y qué abarca, es así como a continuación se explican algunos conceptos y sus características:
 
     .row.justify-content-center.align-items-center.mb-3
       .tarjeta.tarjeta--azul.p-4.mb-5.fnd-1.p-5

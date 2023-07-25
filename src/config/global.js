@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Comportamiento emprendedor, innovación y modelo de negocio',
     descripcionCurso:
-      'Este componente formativo tiene como objetivo identificar los elementos clave, que identifican el comportamiento de un emprendedor, teniendo en cuenta los retos personales y productivos de su entorno, la innovación y las herramientas que le faciliten un modelo de negocio, el cual se proyecta de acuerdo con las necesidades del mercado.',
+      'Este componente formativo tiene como objetivo reconocer los elementos claves, que identifican el comportamiento de un emprendedor, teniendo en cuenta los retos personales y productivos de su entorno, la innovación y las herramientas que le faciliten un modelo de negocio, el cual se proyecta de acuerdo con las necesidades del mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [

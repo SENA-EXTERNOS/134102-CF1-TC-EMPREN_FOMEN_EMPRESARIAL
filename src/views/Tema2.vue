@@ -105,9 +105,6 @@
                 img.img-81(src='@/assets/curso/temas/tema2/img-14.svg')
 
 
-    p Para comprobar si la idea es factible, técnica, económica y financieramente, se deben tener en cuenta algunos procesos que mencionaremos a continuación. 
-    p.mb-5 Aspectos clave para la viabilidad económica de un proyecto.
-
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         ImagenInfografica.color-acento-botones.mb-5
@@ -161,9 +158,9 @@
     p.mb-5 A continuación, se presentan algunos conceptos básicos sobre el análisis del mercado, estos deben ser considerados durante el proceso de creación de un proyecto productivo:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .row.mb-5
+        .row.mb-5.text-white
           .col-sm-6.col-xl-6.mb-4.mb-xl-0
-            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+            .tarjeta.h-100.color-primario
               .indicador--hover(v-if="indicadorTarjetaFlip")
               .tarjeta-flip__contenedor
                 .tarjeta-flip__img
@@ -180,7 +177,7 @@
                   p.text-center.px-4.text-white Es el lugar donde confluye la oferta y demanda de productos o servicios, así como también donde se determinan los precios para el público en general.
 
           .col-sm-6.col-xl-6.mb-4.mb-xl-0
-            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+            .tarjeta.h-100.color-primario
               .indicador--hover(v-if="indicadorTarjetaFlip")
               .tarjeta-flip__contenedor
                 .tarjeta-flip__img
