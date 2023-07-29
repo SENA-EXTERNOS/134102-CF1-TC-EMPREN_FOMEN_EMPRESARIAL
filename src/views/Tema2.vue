@@ -36,9 +36,9 @@
           p.text-center.px-4 Es muy importante que se tenga la evaluación de los recursos, la normatividad legal que incide en el proyecto, la independencia en la toma de decisiones y la preservación del medio ambiente. 
 
     .row.justify-content-center.align-items-center.mb-5
-      p Para comprobar si la idea es factible, técnica, económica y financieramente, se deben tener en cuenta algunos procesos que mencionaremos a continuación. 
+      p Dentro de este orden de ideas, se encuentra con el plan de negocios, una etapa que también es fundamental para la creación de proyectos productivos.
 
-      p Aspectos clave para la viabilidad económica de un proyecto.
+      p Estas son algunas pautas para el plan de negocios:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -103,6 +103,9 @@
             .col-md-2
               figure
                 img.img-81(src='@/assets/curso/temas/tema2/img-14.svg')
+
+    p Para comprobar si la idea es factible, técnica, económica y financieramente, se deben tener en cuenta algunos procesos que mencionaremos a continuación.
+    p.mb-5 Aspectos clave para la viabilidad económica de un proyecto.
 
 
     .row.justify-content-center.align-items-center.mb-5
