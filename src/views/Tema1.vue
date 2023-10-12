@@ -82,7 +82,7 @@
         .tarjeta.color-acento-botones.fnd-2.p-4(titulo="Capacidad de aprendizaje")
           .row
             .col-xl-6.mb-4
-              p El emprendedor debe proceder siempre con una buena actitud para escuchar y aprender todos los días, de la nueva información que está emanando, lo mismo que aprender de las personas expertas en determinados temas, para aprovechar todas las oportunidades que se le puedan presentar.
+              p El emprendedor debe proceder siempre con una buena actitud para escuchar y aprender todos los días de la nueva información que está emanando, lo mismo que aprender de las personas expertas en determinados temas, para aprovechar todas las oportunidades que se le puedan presentar.
 
             .col-xl-6
               figure
@@ -118,7 +118,7 @@
         .tarjeta.color-acento-botones.fnd-2.p-4(titulo="Trabajo en equipo")
           .row
             .col-xl-6.mb-4
-              p El trabajo en equipo es fundamental para que se logren los objetivos formulados en el emprendimiento. Es importante, que el emprendedor se convierta en un líder capaz de guiar, orientar y llegar a un consenso con su grupo de trabajo cuando se presenten problemas y, de esta manera, empoderarse de sus distintas actividades para que todo funcione en armonía.
+              p El trabajo en equipo es fundamental para que se logren los objetivos formulados en el emprendimiento. Es importante que el emprendedor se convierta en un líder capaz de guiar, orientar y llegar a un consenso con su grupo de trabajo cuando se presenten problemas y, de esta manera, empoderarse de sus distintas actividades para que todo funcione en armonía.
 
             .col-xl-6
               figure
@@ -143,7 +143,7 @@
         .tarjeta.color-acento-botones.fnd-2.p-4(titulo="Planificación estratégica<br> a largo plazo")
           .row
             .col-xl-6.mb-4
-              p Un emprendedor no debe ser reactivo; debe ser previsivo, no solo para los cambios del mercado y el entorno, sino anticiparse al futuro, tomando las decisiones apropiadas y oportunas; de la anticipación y la oportunidad, dependerán, en buena medida, el éxito y la supervivencia. 
+              p Un emprendedor no debe ser reactivo; debe ser previsivo, no solo para los cambios del mercado y el entorno, sino anticiparse al futuro, tomando las decisiones apropiadas y oportunas; de la anticipación y la oportunidad dependerán, en buena medida, el éxito y la supervivencia. 
  
             .col-xl-6
               figure
@@ -154,9 +154,9 @@
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Comportamiento emprendedor
 
-    p.mb-5 El comportamiento emprendedor se refiere a la capacidad de identificar fácilmente una oportunidad de negocio que posiblemente, otros no logran ver. Es aprovechar cada oportunidad que el entorno le ofrece, para satisfacer una necesidad o solucionar un problema.
+    p.mb-4 El comportamiento emprendedor se refiere a la capacidad de identificar fácilmente una oportunidad de negocio que posiblemente, otros no logran ver. Es aprovechar cada oportunidad que el entorno le ofrece, para satisfacer una necesidad o solucionar un problema.
 
-    p.mb-5 El comportamiento del emprendedor debe ser diferente, auténtico y cautivante, es así como se presentan, algunos planteamientos relacionados con su comportamiento:
+    p.mb-5 El comportamiento del emprendedor debe ser diferente, auténtico y cautivante, es así como se presentan algunos planteamientos relacionados con su comportamiento:
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--azul.p-4.mb-5.fnd-1.p-5
@@ -176,7 +176,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/img-15.png')
 
-      p.mb-5 Sobre el comportamiento emprendedor, es importante mencionar también aquellas características que más se destacan en las personas emprendedoras.
+      p Sobre el comportamiento emprendedor, es importante mencionar también aquellas características que más se destacan en las personas emprendedoras.
 
       p.mb-5 A continuación, se puede observar, claramente, algunas de esas características emprendedoras personales (C.E.P):
 
@@ -188,37 +188,30 @@
             figcaption.align-leyenda Nota. Tomada y adaptada de Gutiérrez, A. N., Martínez, L.F., Gómez, M. P., García, G.A., Caycedo, M. (2020). 
 
 
-    p.mb-3 Las características, juegan un papel importante en el emprendedor porque con ellas, la gestión que realiza con sus colaboradores se refleja en alcanzar los objetivos trazados. 
+    p.mb-4 Las características juegan un papel importante en el emprendedor porque con ellas, la gestión que realiza con sus colaboradores se refleja en alcanzar los objetivos trazados. 
 
     LineaTiempoD.color-acento-contenido.mb-5
         .row.align-items-center.py-2(numero="1" titulo="Planificar sistemáticamente")
           .col-md-2.pt-0
             figure
               img(src='@/assets/curso/temas/tema1/img-17.svg')
-          
           .col-md-10.mb-4.mb-md-0
             p El emprendedor debe planificar continuamente sus tareas de manera organizada y sistemática, realizando seguimiento y control de los procesos que se van a desarrollar en la organización, con el fin de realizar los ajustes necesarios para el cumplimiento de las metas y objetivos planteados.
               br 
-              p La planificación es necesaria, porque de ella depende la estimación de los recursos humanos, financieros y operativos, que se requieren hoy y en el futuro, para determinar indicadores que puedan medir el nivel de cumplimiento de los objetivos y metas propuestas y, si es necesario, hacer los ajuste para que estos se cumplan de manera eficiente.
-
+              p La planificación es necesaria, porque de ella depende la estimación de los recursos humanos, financieros y operativos, que se requieren hoy y en el futuro, para determinar indicadores que puedan medir el nivel de cumplimiento de los objetivos y metas propuestas y, si es necesario, hacer los ajustes para que estos se cumplan de manera eficiente.
           
         .row(numero="2" titulo="Fijar metas")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-18.svg')
-          
           .col-md-10.mb-4.mb-md-0.py-3
             p Es importante que antes de iniciar cualquier proceso el emprendedor debe fijar metas, porque con ello define qué es lo que quiere alcanzar a corto, mediano y largo plazo. Esta característica es un insumo para que pueda estimar qué recursos requiere cuando planifique su idea de negocio.
-
-          
         
         .row(numero="3" titulo="Estas características se pueden agrupar, en una palabra:<b> MAREAR.</b>")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-19.svg')
-          
           .col-md-10.mb-4.mb-md-0
- 
             ul.lista-ul--color.py-3.pb-0
               li 
                 i.fas.fa-angle-right
@@ -233,22 +226,22 @@
               li 
                 i.fas.fa-angle-right
                 p.mb-0 
-                  b Realista:
+                  b Realista: 
                   | analiza los recursos que se requieren para cumplir las metas (recursos económicos, productivos, humanos, tecnológicos).
               li 
                 i.fas.fa-angle-right
                 p.mb-0 
-                  b Específicas:
+                  b Específicas: 
                   | se deben escribir las metas de manera clara, para evitar que otras personas las entiendan de forma equivocada.
               li 
                 i.fas.fa-angle-right
                 p.mb-0 
-                  b Acotadas:
+                  b Acotadas: 
                   | determinan el tiempo necesario para cumplir las metas, de manera que se pueda verificar su cumplimiento.
               li 
                 i.fas.fa-angle-right
                 p.mb-0 
-                  b Realista:
+                  b Realista: 
                   | analiza los recursos que se requieren para cumplir las metas (recursos económicos, productivos, humanos, tecnológicos).
             p (Gutiérrez et al., 2020, p.24)
           
@@ -256,7 +249,6 @@
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-20.svg')
-          
           .col-md-10.mb-4.mb-md-0
             p El emprendedor por sí solo no logra los objetivos; debe realizarse un autodiagnóstico para identificar cuáles son las fortalezas y debilidades, para buscar ayuda o apoyo de personas que le puedan fortalecer esa debilidad y que, conjuntamente, uniendo esfuerzos, logren los objetivos y las metas propuestas.
             p Crear y conformar redes de apoyo es una buena estrategia que el emprendedor debe realizar, con el fin de establecer buenas relaciones y conformar un equipo que le permita aprender nuevas ideas y generar cambios en su emprendimiento.
@@ -265,16 +257,14 @@
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-21.svg')
-          
           .col-md-10.mb-4.mb-md-0
-            p Esta característica, como la demás, es muy importante porque el emprendedor debe salir de su zona de confort y buscar nuevas oportunidades que el entorno le ofrece, generando ideas creativas e innovadoras que impacten el mercado al cual está dirigido y satisfaciendo las necesidades existentes.
+            p Esta característica, como las demás, es muy importante porque el emprendedor debe salir de su zona de confort y buscar nuevas oportunidades que el entorno le ofrece, generando ideas creativas e innovadoras que impacten el mercado al cual está dirigido y satisfaciendo las necesidades existentes.
 
           
         .row(numero="6" titulo="Exige eficiencia y calidad")
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-22.svg')
-          
           .col-md-10.mb-4.mb-md-0
             p Todo emprendedor debe realizar sus actividades con eficiencia y calidad, optimizando los recursos, para que la productividad proyectada se vea reflejada en cifras y beneficios de crecimiento en el mercado y en la estructura.
 
@@ -283,7 +273,6 @@
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-23.svg')
-          
           .col-md-10.mb-4.mb-md-0
             p Cuando un emprendedor es persistente, puede alcanzar el éxito prontamente, porque es una persona que no le tiene miedo a caer y levantarse hasta que logra su objetivo final. No tiene miedo de los riesgos, los asume y si fracasa inicia nuevamente hasta lograr lo que quiere.
 
@@ -292,7 +281,6 @@
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-24.svg')
-          
           .col-md-10.mb-4.mb-md-0
             p La información es un elemento importante en la cual debe apoyarse el emprendedor, para tomar decisiones documentadas y estructuradas, para mitigar los riesgos que se puedan presentar en el proyecto. Cuando el emprendedor no se informa, no tiene el sustento documental que le permita tomar decisiones acertadas y esto lo lleva al fracaso.
           
@@ -300,7 +288,6 @@
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-25.svg')
-          
           .col-md-10.mb-4.mb-md-0
             p Una característica que debe demostrar a las personas con las cuales tiene relaciones comerciales y personales, es que es una persona seria, responsable y, lo más importante, que cumple con los compromisos que adquiere; esto genera confianza y seguridad de sí mismo y a los demás les genera respeto.
           
@@ -308,7 +295,6 @@
           .col-md-2
             figure
               img(src='@/assets/curso/temas/tema1/img-26.svg')
-          
           .col-md-10.mb-4.mb-md-0
             p Una persona exitosa es aquella que, en un momento de su vida, asumió y se dio cuenta de los riesgos que se pueden presentar durante el emprendimiento, pero fue capaz de superar la dificultad tomando una decisión acertada y demostrando dos características importantes: la autoconfianza y la perseverancia para alcanzar sus metas.
 
@@ -320,10 +306,10 @@
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 La responsabilidad emprendedora
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4.fnd-4
-          p El comportamiento emprendedor es tener la capacidad de identificar una necesidad en el entorno, generar y explorar la creatividad en ideas exitosas y convertir esas ideas en una oportunidad de negocio, que satisfaga la necesidad encontrada y que esta sea rentable y se mantenga en el tiempo.
+          p.mb-0 El comportamiento emprendedor es tener la capacidad de identificar una necesidad en el entorno, generar y explorar la creatividad en ideas exitosas y convertir esas ideas en una oportunidad de negocio, que satisfaga la necesidad encontrada y que esta sea rentable y se mantenga en el tiempo.
     p.mb-5 Como referente científico en el estudio del comportamiento emprendedor se da la teoría de las necesidades adquiridas, citada por Padovan, I. (2020) en Teorías de la motivación. Aplicación práctica, quien, citando a McClelland y a sus socios, explica que “las personas poseen tres necesidades que operan a nivel inconsciente y son adquiridas a lo largo de la vida mediante el aprendizaje. Además, intervienen en simultáneo y generalmente se posee una tendencia hacia una por sobre las demás. Estas necesidades son: necesidad de logro o realización, necesidad de poder y necesidad de afiliación o social” (p.17).
 
 
@@ -361,7 +347,7 @@
       .py-3.py-md-4(titulo="Consigo mismo")
         .row
           .col-md-6.mb-4.mb-md-0
-            p Para el emprendedor, es una satisfacción muy grande, saber que lo que nació de su idea, satisface una necesidad en la sociedad; todo esto, como resultado de su comportamiento emprendedor y de las habilidades y destrezas que posicionó en el producto creado.
+            p Para el emprendedor es una satisfacción muy grande saber que lo que nació de su idea satisface una necesidad en la sociedad; todo esto, como resultado de su comportamiento emprendedor y de las habilidades y destrezas que posicionó en el producto creado.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img-31.png')

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Comportamiento emprendedor, innovación y modelo de negocio',
     descripcionCurso:
-      'Este componente formativo tiene como objetivo reconocer los elementos claves, que identifican el comportamiento de un emprendedor, teniendo en cuenta los retos personales y productivos de su entorno, la innovación y las herramientas que le faciliten un modelo de negocio, el cual se proyecta de acuerdo con las necesidades del mercado.',
+      'Este componente formativo tiene como objetivo reconocer los elementos claves que identifican el comportamiento de un emprendedor, teniendo en cuenta los retos personales y productivos de su entorno, la innovación y las herramientas que le faciliten un modelo de negocio, el cual se proyecta de acuerdo con las necesidades del mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [
@@ -189,7 +189,7 @@ export default {
     {
       termino: 'Emprendedor',
       significado:
-        'persona que incursiona en su propio proyecto productivo al identificar una necesidad, problema o oportunidad, en el cual debe asumir todos los riesgos que se puedan presentar.',
+        'persona que incursiona en su propio proyecto productivo al identificar una necesidad, problema u oportunidad, en el cual debe asumir todos los riesgos que se puedan presentar.',
     },
     {
       termino: 'Emprendimiento',
@@ -204,7 +204,7 @@ export default {
     {
       termino: 'Modelo de negocio',
       significado:
-        'modelo de negocio es un instrumento que le permite a los emprendedores conocer todo lo que se requiere para incursionar un producto en el mercado; todo esto a partir de unos estudios bien estructurados que le permitirán tomar decisiones para continuar o abandonar la idea.',
+        'es un instrumento que le permite a los emprendedores conocer todo lo que se requiere para incursionar un producto en el mercado; todo esto a partir de unos estudios bien estructurados que le permitirán tomar decisiones para continuar o abandonar la idea.',
     },
     {
       termino: 'Pasión',

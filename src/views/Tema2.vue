@@ -118,7 +118,7 @@
 
           .tarjeta.color-n.p-3(x="34.5%" y="79%" numero="1")
             h3.mb-3.text-white Investigación y estudio de mercado 
-            p Esta fase es muy importante, porque es donde identificamos hacia dónde va dirigido el mercado objetivo y hasta a dónde queremos llegar con el mercado potencial; es en este punto donde debemos cuestionar los siguientes interrogantes: qué, cuánto y dónde vender; a quiénes, cómo y a qué precio producirlo. Fuente: SENA Regional Risaralda elaboración de proyectos módulo 1.
+            p Esta fase es muy importante, porque es donde identificamos hacia dónde va dirigido el mercado objetivo y hasta dónde queremos llegar con el mercado potencial; es en este punto donde debemos cuestionar los siguientes interrogantes: qué, cuánto y dónde vender; a quiénes, cómo y a qué precio producirlo. Fuente: SENA Regional Risaralda elaboración de proyectos módulo 1.
               br
               |Sobre este punto, también se deben examinar la demanda y la oferta.
               br

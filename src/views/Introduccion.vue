@@ -15,7 +15,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/img-intro.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán de manera didáctica, los conceptos básicos de emprendedor, fundamentos para la creación de un proyecto productivo, análisis e innovación de mercado, creación de marca, modelo de negocios, entre otros temas que son muy importantes a la hora de emprender. En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+              p Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán de manera didáctica los conceptos básicos de emprendedor, fundamentos para la creación de un proyecto productivo, análisis e innovación de mercado, creación de marca, modelo de negocios, entre otros temas que son muy importantes a la hora de emprender. En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
               
       figure.mb-5
         .video
